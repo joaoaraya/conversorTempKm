@@ -7,7 +7,7 @@ De temperaturas em:
 De medidas em:
 * Centimetros
 * Metros
-* Kilomentros
+* Kilometros
 
 > Para abrir o programa basta navegar até: `Conversor/bin/debug/Conversor.exe`
 
